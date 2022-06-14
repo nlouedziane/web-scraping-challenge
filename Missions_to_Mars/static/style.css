@@ -1,0 +1,53 @@
+.container {
+    height: 10rem;
+    padding-top: 2rem;
+    text-align: center;
+    background: url(https://starwalk.space/gallery/images/mars-the-ultimate-guide/1920x1080.jpg);
+    color: white;
+    background-size: cover;
+  }
+
+
+
+h2 {font-size: xx-large;
+}
+
+h3 {font-size: x-large;}
+
+h4 {font-size: large;}
+
+img {border: 5px solid #555;
+}
+
+h5 {
+  font-size: x-large;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 1.2em;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+table thead tr {
+  background-color: black;
+  color: #ffffff;
+  text-align: left;
+}
+
+table th,
+table td {
+  padding: 4px 14px;
+}
+
+table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+table tbody tr:last-of-type {
+  border-bottom: 2px solid black;
+}
